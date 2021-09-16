@@ -1,0 +1,6 @@
+projectKey=ALM_Js_Sonar_Demo:master
+serverUrl=https://sonar.cybage.com
+serverVersion=7.9.1.27448
+dashboardUrl=https://sonar.cybage.com/dashboard?id=ALM_Js_Sonar_Demo%3Amaster
+ceTaskId=AXvnqY_SwPytlavb8nU_
+ceTaskUrl=https://sonar.cybage.com/api/ce/task?id=AXvnqY_SwPytlavb8nU_
